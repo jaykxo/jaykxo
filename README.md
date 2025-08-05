@@ -1,6 +1,5 @@
 
 <!-- Header banner -->
-<!-- Header banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc6c6,100:7ec8e3&height=200&section=header&text=Hi,%20I'm%20JAY!&fontSize=40&fontAlign=70&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -10,13 +9,12 @@
 ## 👋 About Me
 
 <p align="center">
-  <img src="https://github.com/jaykxo/jaykxo/blob/main/me.png?raw=true" width="120" />
+  <img src="https://github.com/jaykxo/jaykxo/blob/main/me.png?raw=true" width="120" /> 
 </p>
 
 I don't just *code* — I *communicate* ideas through interfaces 💬  
 Curious by nature 🧐, creative by instinct 🎨, I love turning complexity into clarity 🌈  
-I enjoy breaking things down, then rebuilding them *my way* 🛠️  
-
+I enjoy breaking things down, then rebuilding them *my way* 🛠️ 
 
 
 ---
@@ -68,8 +66,8 @@ I enjoy breaking things down, then rebuilding them *my way* 🛠️
 
 My devlog isn’t just a record — it's a *playground* 🎪  
 <p align="center">🩷 take the ride! 🎢 →
-  <a href="https://velog.io/@jaykxo">
-    <img src="https://img.shields.io/badge/Velog-my%20devlog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog Badge" />
+  <a href="https://velog.io/@jaykxo/series">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog Badge" />
   </a>🩷 
 </p>
 I reimagine concepts with memes 🐸, metaphors 🪄, and sometimes complete nonsense 🫠...<br>
@@ -85,7 +83,18 @@ But if you learn something while laughing — that’s a win in my book 🏆
 ---
 
 I might not look like your typical dev. <br>
-That’s okay 🤷🏻‍♀️ — I’m *not trying to be*
+That’s okay 🤷🏻‍♀️ — I’m *not trying to be* !
+
+<p align="center">
+  <a href="mailto:jkxojkxo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/xoxjayoxo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://github.com/jaykxo/jaykxo/blob/main/me2.png?raw=true" width="120" />
